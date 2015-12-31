@@ -1,0 +1,162 @@
+#header{
+                    background:url(http://i.imgur.com/gybYsmV.png) no-repeat;
+                    background-position: top right;
+                    box-shadow:0 0 0px rgba(0,0,0,0);
+                    height:127px;
+                    }
+                 
+            
+                #logo{
+                    width:572px;
+                    height:59px;
+                    background:url(http://i.imgur.com/nK52UQh.png) no-repeat;
+                    margin-top:35px;
+                    background-size: cover;
+                }        
+                #title-bar-region{
+                    background-color: #1aaecc;
+                    box-shadow: 0 2px 5px #555;
+                }
+                #title-bar-region .search-nav-item{
+                font-family:微軟正黑體;
+                font-size: 16px;
+                color: white;
+                }
+                #map-bar-region{
+                    margin-bottom:0px;
+                }
+                #slide-region{
+                    padding-top:15px;
+                    border-top: solid 5px #1aaecc;
+                }
+
+                #search-results-region #search-results li.item{
+                    border:solid 0px #ace8f4;
+                     border-top:solid 1px #58d1eb;
+                    
+                }
+                #search-results-region .invisible-container .card-info-container {
+                    background-color: rgb(197, 240, 249);
+                }
+                #footer{
+                    color:white;
+        
+                    background-color: #1aaecc;
+                    box-shadow:inset 0 2px 5px #555;
+                    font-size:13px;
+                }
+                #footer .container{
+                        background-color: #1aaecc;
+                }
+
+        /*正文內容*/
+                .panel-shadow {
+                    box-shadow: rgba(0, 0, 0, 0.3) 7px 7px 7px;
+                }
+                .panel-white {
+                  border: 1px solid #dddddd;
+                }
+                .panel {
+                    font-size: 13px;
+                    color: #454545;
+                    background: #fafafa;
+                    position: relative;
+                    overflow-x: hidden;
+                    font-family: '微軟正黑體', 'Oxygen', sans-serif;
+                }
+                .panel-white  .panel-heading {
+                  color: #333;
+                  background-color: #fff;
+                  border-color: #ddd;
+                }
+                .panel-white  .panel-footer {
+                  background-color: #fff;
+                  border-color: #ddd;
+                }
+                .bg1 {
+                    background-image: url('http://i.imgur.com/bkM0q0n.jpg');
+        
+                }
+                .bg2 {
+                    background-image: url('http://i.imgur.com/xaTBqVO.jpg');
+                }
+                .bg3 {
+                    background-image: url('http://i.imgur.com/GZASwH7.jpg');
+                }
+                .bg4 {
+                    background-image: url('http://i.imgur.com/NFfB3GI.jpg');
+                }
+                .bg5 {
+                    background-image: url('http://i.imgur.com/MzVAUie.jpg');
+                }
+                .bg6 {
+                    background-image: url('http://i.imgur.com/sH17XQo.jpg');
+                }
+                .bg7 {
+                    background-image: url('http://i.imgur.com/LsMm4YO.jpg');
+                }
+                .bg8 {
+                    background-image: url('http://i.imgur.com/Ysf08RM.jpg');
+                }   
+                .bg9 {
+                    background-image: url('http://i.imgur.com/L85vnHw.jpg');
+                }   
+
+                    
+                .profile-widget {
+                  position: relative;
+                }
+                .profile-widget .image-container {
+                  height: 100px;
+                  /*background-size: cover;*/
+                  background-position: center;
+                  padding: 160px 0 60px;
+                }
+                .profile-widget .image-container .profile-background {
+                  width: 100%;
+                  height: auto;
+                }
+
+                .profile-widget:hover{
+                    box-shadow: 0 0 0px rgba(0,0,0,0.5);
+                      -webkit-transition: box-shadow 2s;
+                }
+
+                .profile-widget:hover{
+                    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+                      -webkit-transition: box-shadow 0.7s;
+                }
+                .profile-widget .details {
+                  padding: 0 15px 15px;
+                  text-align: center;
+                }
+
+                .panel-title {
+                    font-size: 72px;
+                    color: #fff;
+                    line-height: 45px;
+                    padding-top: 20px;
+                    letter-spacing: -0.8px;
+                }
+                .panel-default>.panel-heading {
+                  background-color: #b9691f;
+                }
+                
+                .btn-color{
+                    font-family: 微軟正黑體;
+                    font-size: 1.5em;
+                    background: #1aaecc;
+                    border-color: #1296b1;
+                    padding: 0 15px;
+                    border-radius: 2px;
+                }
+
+
+                .btn-color:hover{
+                    background-color: #363638;
+                    border-color: #0e181c;
+                                    }   
+                .details h4{
+                    font-size: 2em;
+                    font-weight: 600;
+                }
